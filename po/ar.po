@@ -26,7 +26,7 @@ msgstr "تعديل تثبيت أوبنتو بواجهة جنوم خام "
 
 #: data/io.github.vanilla-os.FirstSetup.appdata.xml.in:10
 msgid "No description"
-msgstr "بدون وصف"
+msgstr "دون وصف"
 
 #: data/io.github.vanilla-os.FirstSetup.appdata.xml.in:26
 msgid "First release"
@@ -54,7 +54,7 @@ msgstr "التالي"
 
 #: vanilla_first_setup/gtk/dialog.ui:6
 msgid "Showing Informations"
-msgstr "عرض التفاصيل"
+msgstr "عرض المعلومات"
 
 #: vanilla_first_setup/gtk/progress.ui:20
 msgid "The changes are being applied. Please Wait…"
